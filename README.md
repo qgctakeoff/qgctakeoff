@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently studying in Wenzhou Medical University.
+- 🌱 I’m currently learning domain adaptation.
+- 💬 Ask me about GitHub.
+- ⚡ Fun fact: Game.
+
 <!--
 **qgctakeoff/qgctakeoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
